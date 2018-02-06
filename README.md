@@ -1,2 +1,4 @@
-# pttmessenger
-PttMessenger | Kaynak Kodları
+# PTTMessenger | Kaynak Kodlari | Source Codes
+Evet yerli ve milli haberlesme programi PTTMessengerin ne kadar yerli ve milli oldugunu incelemek isterseneniz kaynak kodunu indirebilirisiniz. Gonul isterdiki Devrim Arabalari gibi gercekten yerli ve milli imkanlarla yapilmis olsun. Lakin kaynak kodlari incelediginizde her yerden calip cirpilmis monte edilmis bir uygulama oldugunu gormeniz gayet mumkun. Ne yazikki hukumetin en buyuk hatasi yerli ve milli sozunun icinin bosaltilmasi oldu. Ancak uzerinde deginmek istedigim bir konu var. Konusmalarin dinlenemedigi kismi dogru gorunuyor. Her ne kadar yalnizca client kismini gorsek de Signal isimli bir kriptolu haberlesme yaziliminin kutuphanesini kullanarak yazildigi goruluyor. Yerli ve milli WhatsApp yerine yerli ve milli Bylock olmamasi dilegiyle.
+
+Bu kaynak kodlari egitim icin decompile edilmistir. Kaynak kodlariyla yapilan herhangi bir degisiklikler ve recompile isleminden tamamen kullanici sorumludur.
